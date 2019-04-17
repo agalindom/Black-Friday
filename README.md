@@ -25,16 +25,27 @@ Proyecto_Final_MD-checkpoint.ipynb = Contiene el código utilizado en el trabajo
 ## Diccionario de datos
 
 User_ID - User - int64
+
 Product_ID - Id Product - Object
+
 Gender - Boolean - Object
+
 Age - Age customer - Object
+
 OccupationId - Occupation of each customer - int64
+
 City_Category - Object
+
 Stay_In_Current_City_Years - Object
+
 Marital_Status - int64
+
 Product_Category_1 - int64
+
 Product_Category_2 - float64
+
 Product_Category_3 - flota64
+
 PurchasePurchase amount in dollars - int64
 
 ## Recursos
